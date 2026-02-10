@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Concurrent/Concurrent.csproj" />
+  <Project Path="SimpleAgentWithTools/SimpleAgentWithTools.csproj" />
+</Solution>
